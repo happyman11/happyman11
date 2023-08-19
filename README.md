@@ -116,22 +116,18 @@ GitPages Badge"/>
    <div id="Projects"  align="center">
        <h2>  🛠️  Projects </h2> 
        <br>
-       <table style="width:100px">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
+       <table style="width:400px">
+ 
   <tr>
     <td>Jill</td>
     <td>Smith</td>
     <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
+      <td>50</td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
+ 
 </table>
        
    <div align="center">
