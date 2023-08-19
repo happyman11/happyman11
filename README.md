@@ -46,7 +46,7 @@ GitPages Badge"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyman" />
    </div>
    <div id ="Repository">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
+    <img style="width:128px;height:128px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happyman11" /> 
    </div>
    </div>
