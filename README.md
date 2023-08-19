@@ -206,17 +206,27 @@ GitPages Badge"/>
   </tr>
   <tr>
      <td><a href="https://github.com/happyman11/Tableau_Prision-database/tree/main" target="_blank">Tableau_Prision-database</a></td>
-     <td><a href="" target="_blank"></a></td>
+     <td><a href="https://github.com/happyman11/Scaler_Articles" target="_blank">Scaler Articles</a></td>
   </tr>
   <tr>
      <td><a href="https://github.com/happyman11/notebooks_importantlinks" target="_blank">VVI Jupyter Notebooks</a></td>
-     <td><a href="" target="_blank"></a></td>
+     <td><a href="https://github.com/happyman11/bookchapter_LSTM_HAtespeech_LIME/tree/main" target="_blank">HateSpeech with XAI</a></td>
   </tr>
-  <!-- <tr>
-     <td><a href="" target="_blank"></a></td>
-     <td><a href="" target="_blank"></a></td>
-  </tr> -->
-  
+  <tr>
+     <td><a href="https://github.com/happyman11/code_imp_wrk/tree/main" target="_blank">Reference Code</a></td>
+     <td><a href="https://github.com/happyman11/Backup-usdcdrive/tree/main" target="_blank">Pnuemonia  Classification</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/AWS-API-gateway-with-lambda-dynamo/tree/main" target="_blank">AWS Lambda</a></td>
+     <td><a href="https://github.com/happyman11/linkdin-Amazon-wenservice-ML-Essential-Trainning" target="_blank">Linkdin ML Essential Tr</a></td>
+  </tr>
+
+   <tr>
+     <td><a href="https://github.com/happyman11/linkdin-Apache-Spark-DL-essensial-Learning/tree/main" target="_blank">Linkdin  Apache ML Spark</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_mathematica-11-ML/tree/main" target="_blank">Linkdin Mathematica</a></td>
+  </tr>
+
+   
 </table>
        
    <div align="center">
