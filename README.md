@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
  
-
+<br>
   <div id="Blog">
     
    <a href="https://tiwari11-rst.medium.com/">
@@ -15,7 +15,7 @@ Blogger Badge"/>
   </a>
 
   </div>
-
+<br>
    <div id="Websites">
     
    <a href="https:www.rstiwari.com">
@@ -28,7 +28,7 @@ GitPages Badge"/>
   </a>
 
   </div>
-
+<br>
  <div id="badges">
   <a href="http://www.linkedin.com/in/ravishekhartiwari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin Badge"/>
@@ -52,7 +52,7 @@ GitPages Badge"/>
    <br>
    <div id="Mostusedlanguages">
      <h2 > Language Used </h2>
-     <img   style="width:500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyman&theme=dark" />
+     <img   style="width:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyman&theme=dark" />
    </div>
   
    </div>
