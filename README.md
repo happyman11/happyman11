@@ -90,15 +90,16 @@ GitPages Badge"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" align="left" alt="Julia" /></td>
        <td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" align="left" alt="Julia" />
 </td>
-  </tr>
-   <tr>
       <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" align="left" alt="Julia" />
 </td>
+  </tr>
+   <tr>
       <td><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" align="left" alt="Julia" />
  </td>
       <td><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" align="left" alt="Julia" />  </td>
-
-       
+<td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left" alt="Julia" /></td>
+<td><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" align="left" alt="Julia" />
+ </td>      
   </tr>
  
 </table>
@@ -106,8 +107,7 @@ GitPages Badge"/>
 
 
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" align="left" alt="Julia" />
+
 <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" align="left" alt="Julia" />
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" align="left" alt="Julia" />
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" align="left" alt="Julia" />
