@@ -226,7 +226,63 @@ GitPages Badge"/>
      <td><a href="https://github.com/happyman11/linkdin_mathematica-11-ML/tree/main" target="_blank">Linkdin Mathematica</a></td>
   </tr>
 
-   
+   <tr>
+     <td><a href="https://github.com/happyman11/matlab-cource/tree/main" target="_blank">Matlab Course</a></td>
+     <td><a href="https://github.com/happyman11/basketbaal_heroku-deploy" target="_blank">Basketball Heroku</a></td>
+  </tr>
+
+  <tr>
+     <td><a href="https://github.com/happyman11/Penguine_Streamlit_Deployed_Heroku" target="_blank">Penguine Classification</a></td>
+     <td><a href="https://github.com/happyman11/tensorboard-datavisualixation-" target="_blank">Tensorboard Embedding Visualization</a></td>
+  </tr>
+  
+  <tr>
+     <td><a href="https://github.com/happyman11/ImgFlip575K_Dataset" target="_blank">Imageflip575k Dataset</a></td>
+     <td><a href="https://github.com/happyman11/aws_api_deployement/tree/main" target="_blank">AWS AWS Deploy</a></td>
+  </tr>
+
+<tr>
+     <td><a href="https://github.com/happyman11/aws_quantum" target="_blank">Linkdin Quantum Computing</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_aws/tree/main" target="_blank">5*AWS Course </a></td>
+  </tr>
+
+<tr>
+     <td><a href="https://github.com/happyman11/copy-backup/tree/main" target="_blank">My Blog Back-up</a></td>
+     <td><a href="https://github.com/happyman11/massmail/tree/main" target="_blank">Mass Mail Application</a></td>
+  </tr>
+
+<tr>
+     <td><a href="https://github.com/happyman11/templates_blog/tree/main" target="_blank">Email Templates- Blog</a></td>
+     <td><a href="https://github.com/happyman11/email_templates/tree/main" target="_blank">Email Templates for Blog</a></td>
+  </tr>
+
+<tr>
+     <td><a href="https://github.com/happyman11/backup_blog/tree/main" target="_blank">Back-up Blog</a></td>
+     <td><a href="https://github.com/happyman11/aws_chalice/tree/main" target="_blank">AWS Chalice</a></td>
+  </tr>
+
+  <tr>
+     <td><a href="https://github.com/happyman11/Learning-Julia/tree/main" target="_blank">Learn Julia</a></td>
+     <td><a href="https://github.com/happyman11/Data-Cleanning-Essentials-python/tree/main" target="_blank">Python Data Cleaning </a></td>
+  </tr>
+ 
+ <tr>
+     <td><a href=" https://github.com/happyman11/Learning-Julia-Julia_-Power-like-Python-speed-like-C/tree/main" target="_blank">Julia</a></td>
+     <td><a href="https://github.com/happyman11/Deep-Learning-Foundations_-Natural-Language-Processing-with-TensorFlow/tree/main" target="_blank">NLP - TensorFlow</a></td>
+  </tr>
+
+   <tr>
+     <td><a href="https://github.com/happyman11/Computer-Vision-on-the-Raspberry-Pi-4/tree/main" target="_blank">CV Edge Devices</a></td>
+     <td><a href="https://github.com/happyman11/Hands-On-Natural-Language-Processing/tree/main" target="_blank">Hands on NLP</a></td>
+  </tr>
+
+ <tr>
+     <td><a href="https://github.com/happyman11/JavaScript_-Ajax-and-Fetch/tree/main" target="_blank">JS Ajax and Fetch </a></td>
+     <td><a href="" target="_blank"></a></td>
+  </tr>
+
+
+
 </table>
        
    <div align="center">
