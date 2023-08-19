@@ -133,9 +133,9 @@ GitPages Badge"/>
      <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" align="left" alt="Julia" /></td>
  </tr>
  <tr>
-     <td></td>
-     <td></td>
-     <td></td>
+     <td><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" align="left" alt="Julia" /></td>
+     <td><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" align="left" alt="Julia" /></td>
+     <td><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" align="left" alt="Julia" /></td>
      <td></td>
      <td></td>
  </tr>
@@ -144,19 +144,11 @@ GitPages Badge"/>
 
 
 
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" align="left" alt="Julia" />
+
+
+
  </div>
-    <br>
-     <br>
-      <br>
-       <br>
-        <br>
-    <br>
-     <br>
-   <br>
-   <br>
+   
    <br>
    </div>
    <div id="Projects"  align="center">
