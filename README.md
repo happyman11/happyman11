@@ -148,20 +148,75 @@ GitPages Badge"/>
    <br>
    </div>
    <div id="Projects"  align="center">
-       <h2>  🛠️  Projects </h2> 
+       <h2>  🛠️  Repositories </h2> 
        <br>
        <table style="width:400px">
- 
+
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-      <td>50</td>
-      <td>50</td>
-      <td>50</td>
-      <td>50</td>
+    <td ><a href="https://github.com/happyman11/Real-Time-AI-Product-Projects" target="_blank"> 4*AI Projects</a></td>
+    <td><a href="https://github.com/happyman11/PUC-PDF-Openai" target="_blank">PDF Chatbot (OpenAI)</a></td>
+   </tr>
   </tr>
- 
+     <td><a href="https://github.com/happyman11/CPU_Usage_Dashboard" target="_blank">CPU Dashboard</a></td>
+     <td><a href="https://github.com/happyman11/happyman11.github.io" target="_blank"> MY Portfolio</a></td>
+  <tr>
+     <td><a href="https://github.com/happyman11/IBM_Study" target="_blank">IBM_Study (Gen. AI)</a></td>
+     <td><a href="https://github.com/happyman11/assessment-challenge_stbleDiffusion-Fast_API/tree/main" target="_blank">Stable  Diffusion</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/linkdin_courses" target="_blank">Linkdin Courses</a></td>
+     <td><a href="https://github.com/happyman11/PPGCL_JRF" target="_blank">IIT Patna Project</a></td>
+  </tr>
+
+  <tr>
+     <td><a href="https://github.com/happyman11/django-chatbot/tree/main" target="_blank">Django Chatbot OpenAI</a></td>
+     <td><a href="https://github.com/happyman11/Py_FS" target="_blank">Feature Selection (Evolutionary Algo)</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/course-content-dl" target="_blank">Deep Learning Course-NeuromatchAcademy</a></td>
+     <td><a href="https://github.com/happyman11/opencv-cascade" target="_blank">OpenCv Cascades</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/NTNU_ENC2055_DATA" target="_blank">R Course</a></td>
+     <td><a href="https://github.com/happyman11/NTNU_ENC2055_LECTURES" target="_blank"> Course Linguistic</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/LipNet/tree/main" target="_blank">Lip Net</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_transfer_learning_pytorch/tree/main" target="_blank">Transfer Learning Pytorch (Linkdn)</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/linkdin_image_recognition/tree/main" target="_blank">Image Recognition Pytorch (Linkdn)</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_pytorch_essential_training/blob/main/README.md" target="_blank">Pytorch Essentials (Linkdn)</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/Mlflow-Tutorial/tree/main" target="_blank">ML FLow</a></td>
+     <td><a href="https://github.com/happyman11/IIT-Patna-Deployed-Application/tree/main" target="_blank">IIT Patna PUC</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/visualize_channel_DL/tree/main" target="_blank">Visualize Filter - Keras</a></td>
+     <td><a href="https://github.com/happyman11/FireflyAlgorithm" target="_blank">Firefly</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/Wrapper-Feature-Selection-Toolbox-Python" target="_blank">Evo.  Feature Selection</a></td>
+     <td><a href="https://github.com/happyman11/transer-learning-repository" target="_blank">Transfer Learning Keras Covid </a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/Loadforecasting/tree/main" target="_blank">Load Forecasting Time Series</a></td>
+     <td><a href="https://github.com/happyman11/Fellowship.AI-solution/tree/main" target="_blank">Fellowship.Ai Solution</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/Tableau_Prision-database/tree/main" target="_blank">Tableau_Prision-database</a></td>
+     <td><a href="" target="_blank"></a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/notebooks_importantlinks" target="_blank">VVI Jupyter Notebooks</a></td>
+     <td><a href="" target="_blank"></a></td>
+  </tr>
+  <!-- <tr>
+     <td><a href="" target="_blank"></a></td>
+     <td><a href="" target="_blank"></a></td>
+  </tr> -->
+  
 </table>
        
    <div align="center">
