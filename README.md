@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif" width="400px"/>
   
 
   <h1>Ravi Shekhar Tiwari</h1>
