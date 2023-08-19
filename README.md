@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <h1>Ravi Shekhar Tiwari</h1>
-
+  <br>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500px"/>
   
 
@@ -10,6 +10,7 @@
  
 <br>
   <div id="Blog">
+  <br>
     
    <a href="https://tiwari11-rst.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
@@ -23,6 +24,7 @@ Blogger Badge"/>
   </div>
 <br>
    <div id="Websites">
+   <br>
     
    <a href="https:www.rstiwari.com">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
@@ -36,6 +38,7 @@ GitPages Badge"/>
   </div>
 <br>
  <div id="badges">
+     <br>
   <a href="http://www.linkedin.com/in/ravishekhartiwari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin Badge"/>
   </a>
@@ -51,7 +54,9 @@ GitPages Badge"/>
  </div>
 
  <div id="Tools">
+     
    <h2> 🔨 Languages and Tools:</h2>
+   <br>
 <img align="left" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />  
 <img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /> 
 <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" align="left" alt="git" />
