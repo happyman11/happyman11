@@ -106,6 +106,8 @@ GitPages Badge"/>
    <br>
    <br>
    <br>
+   </div>
+   <div aligh="center">
     <div id ="Repository">
      <h2> 📊 Github Stats </h2>
     <img style="width:400px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
