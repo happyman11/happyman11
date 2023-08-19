@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <div id="header" align="center">
     <h1>Ravi Shekhar Tiwari</h1>
   <br>
@@ -113,7 +113,10 @@ GitPages Badge"/>
    <br>
    <br>
    </div>
-   <div aligh="center">
+   <div id="Projects">
+       <div class="w3-panel w3-card"><p>w3-card</p></div> <div class="w3-panel w3-card"><p>w3-card</p></div>
+   </div>
+   <div align="center">
     <div id ="Repository">
      <h2> 📊 Github Stats </h2>
     <img style="width:400px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
