@@ -113,9 +113,10 @@ GitPages Badge"/>
    <br>
    <br>
    </div>
-   <div id="Projects">
-       <div class="w3-panel w3-card"><p>w3-card</p></div> <div class="w3-panel w3-card"><p>w3-card</p></div>
-   </div>
+   <div id="Projects"  align="center">
+       <h2>  🛠️  Projects </h2> 
+       <br>
+       
    <div align="center">
     <div id ="Repository">
      <h2> 📊 Github Stats </h2>
