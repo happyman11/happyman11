@@ -43,6 +43,8 @@ GitPages Badge"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>  
 
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11" />
- </div>
+   <div id ="Repository">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=daark" />
+   </div>
+   </div>
 
