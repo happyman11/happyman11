@@ -44,7 +44,7 @@ GitPages Badge"/>
   </a>  
 
    <div id ="Repository">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=daark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
    </div>
    </div>
 
