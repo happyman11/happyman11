@@ -43,11 +43,13 @@ GitPages Badge"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>  
    <div id="Mostusedlanguages">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyman" />
+     <h2> Language Used </h2>
+     <img   style="width:1000px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyman&theme=dark" />
    </div>
    <div id ="Repository">
-    <img style="width:550px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
-     <img style="width:550px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happyman11" /> 
+     <h2> Repository  Information </h2>
+    <img style="width:500px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
+     <img style="width:500px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happyman11&theme=dark" /> 
    </div>
    </div>
 
