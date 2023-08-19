@@ -3,7 +3,7 @@
 <div id="header" align="center">
     <h1>Ravi Shekhar Tiwari</h1>
      <br>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500px"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500px"/>
 
 
 <br>
@@ -131,7 +131,7 @@ GitPages Badge"/>
      <td><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" align="left" alt="Julia" /></td>
- </tr> -->
+ </tr> 
  <tr>
      <td><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" align="left" alt="Julia" /></td>
