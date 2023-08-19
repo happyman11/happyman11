@@ -1,13 +1,11 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 <div id="header" align="center">
     <h1>Ravi Shekhar Tiwari</h1>
-  <br>
+     <br>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500px"/>
-  
 
 
-
- 
 <br>
   <div id="Blog">
   <br>
@@ -58,9 +56,10 @@ GitPages Badge"/>
    <h2> 🔨 Languages and Tools:</h2>
    <br>
     <table style="width:400px">
- 
   <tr>
-    <td><img align="left" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />  </td>
+    <td>
+    <img align="left" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" /> 
+     </td>
     <td>
 <img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /></td>
     <td><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" align="left" alt="git" /></td>
@@ -70,7 +69,8 @@ GitPages Badge"/>
      
       
   </tr>
-  <tr>
+
+   <tr>
       <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" align="left" alt="Django" />
 </td>
       <td><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" align="left" alt="DjangoRF" />
@@ -82,7 +82,7 @@ GitPages Badge"/>
         <td><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" align="left" alt="Julia" />
 </td>
   </tr>
-  <tr>
+ <tr>
       <td><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" align="left" alt="Julia" />
  </td>
       <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" align="left" alt="Julia" /> </td>
@@ -93,7 +93,7 @@ GitPages Badge"/>
       <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" align="left" alt="Julia" />
 </td>
   </tr>
-   <tr>
+  <tr>
       <td><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" align="left" alt="Julia" />
  </td>
       <td><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" align="left" alt="Julia" />  </td>
@@ -110,7 +110,7 @@ GitPages Badge"/>
      <td><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" align="left" alt="Julia" /></td>
  </tr>
-  <tr>
+   <tr>
      <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="left" alt="Julia" /></td>
@@ -119,32 +119,28 @@ GitPages Badge"/>
  </tr>
   <tr>
      <td><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="left" alt="Julia" /></td>
-     <td<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="left" alt="Julia" />></td>
+     <td<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" align="left" alt="Julia" /></td>
   <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="left" alt="Julia" /></td>
  </tr>
- <tr>
+<tr>
      <td><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" align="left" alt="Julia" /></td>
- </tr>
+ </tr> -->
  <tr>
      <td><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" align="left" alt="Julia" /></td>
      <td><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" align="left" alt="Julia" /></td>
      <td></td>
      <td></td>
- </tr>
-</table>
+ </tr> 
  
-
-
-
-
+</table>
 
 
  </div>
@@ -176,4 +172,3 @@ GitPages Badge"/>
    </div>
    <br>
    </div>
-
