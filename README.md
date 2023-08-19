@@ -267,7 +267,7 @@ GitPages Badge"/>
   </tr>
  
  <tr>
-     <td><a href=" https://github.com/happyman11/Learning-Julia-Julia_-Power-like-Python-speed-like-C/tree/main" target="_blank">Julia</a></td>
+     <td><a href="https://github.com/happyman11/Learning-Julia-Julia_-Power-like-Python-speed-like-C/tree/main" target="_blank">Julia</a></td>
      <td><a href="https://github.com/happyman11/Deep-Learning-Foundations_-Natural-Language-Processing-with-TensorFlow/tree/main" target="_blank">NLP - TensorFlow</a></td>
   </tr>
 
