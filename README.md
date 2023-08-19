@@ -69,16 +69,34 @@ GitPages Badge"/>
       <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" align="left" alt="Docker" /></td>
       <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" align="left" alt="Docker" />
 </td>
+      
+  </tr>
+  <tr>
       <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" align="left" alt="Django" />
 </td>
+      <td><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" align="left" alt="DjangoRF" />
+ </td>
+      <td> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" align="left" alt="FastApi" />
+</td>
+      <td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" align="left" alt="Flask" />
+ </td>
+  </tr>
+  <tr>
+      <td></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+  </tr>
+   <tr>
+      <td></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
   </tr>
  
 </table>
  
 
-<img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" align="left" alt="DjangoRF" />
-<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" align="left" alt="FastApi" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" align="left" alt="Flask" />
 <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" align="left" alt="Julia" />
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" align="left" alt="Julia" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" align="left" alt="Julia" />
