@@ -278,7 +278,58 @@ GitPages Badge"/>
 
  <tr>
      <td><a href="https://github.com/happyman11/JavaScript_-Ajax-and-Fetch/tree/main" target="_blank">JS Ajax and Fetch </a></td>
-     <td><a href="" target="_blank"></a></td>
+     <td><a href="https://github.com/happyman11/Machine-Learning-with-Python_-Decision-Trees/tree/main" target="_blank">ML-Python_-DT</a></td>
+  </tr>
+
+  <tr>
+     <td><a href="https://github.com/happyman11/Applied-Machine-Learning_-Ensemble-Learning/tree/main" target="_blank">ML=Python-Ensemble</a></td>
+     <td><a href="https://github.com/happyman11/course_linkdin_apachekafka/tree/main" target="_blank">Apache Kafka</a></td>
+  </tr>
+
+<tr>
+     <td><a href="https://github.com/happyman11/timeseries/tree/main" target="_blank">Time Series </a></td>
+     <td><a href="https://github.com/happyman11/blogrstiwari.github.io/tree/main" target="_blank">My Blog UI</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/launching-soon-/tree/main" target="_blank">Launching Soon</a></td>
+     <td><a href="https://github.com/happyman11/myblog/tree/main" target="_blank"> My Blog</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/linkdin_JavaScript-and-AJAX_-Integration-Techniques/tree/main" target="_blank">JS-AJAX-Integration</a></td>
+     <td><a href="https://github.com/happyman11/blog_api_deploy/tree/main" target="_blank">My Blog API</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/linkdin_Machine-Learning-and-AI-Foundations_-Producing-Explainable-AI-XAI-and-Interpretable-Mach/tree/main" target="_blank">XAI </a></td>
+     <td><a href="https://github.com/happyman11/linkdin_machine_learning_XAI/tree/main" target="_blank">XAI</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/linkdin_python_decorator/tree/main" target="_blank">Python Decorator</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_machine_learningwithScikitlearn/tree/main" target="_blank">ML Scikit-Learn</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/linkdin_Machine-Learning-and-AI-Foundations_-Decision-Trees-with-KNIME/tree/main" target="_blank">ML-Knime</a></td>
+     <td><a href="https://github.com/happyman11/Linkdin_APache_pysparkbyexample/tree/main" target="_blank">Apache Spark</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/Linkdin_webscrapping/tree/main" target="_blank">Web Scrapping</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_AdvancedPandas/tree/main" target="_blank">Advance Pandas</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/Linkdin_learningArduino/tree/main" target="_blank">Arduino</a></td>
+     <td><a href="https://github.com/happyman11/Linkdin_learning-vuejs/tree/main" target="_blank">Vue.js</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/Spam-detector-app/tree/main" target="_blank">Spam Detector</a></td>
+     <td><a href="https://github.com/happyman11/personal_portfolio/tree/main" target="_blank">Portfolio Old</a></td>
+  </tr>
+  
+<tr>
+     <td><a href="https://github.com/happyman11/linkdin_Web-Scraping-with-Python/tree/main" target="_blank">Scraping</a></td>
+     <td><a href="https://github.com/happyman11/research_phyisc-AI/tree/main" target="_blank">Physics Dataset</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/linkdin_Learning_Arduino/tree/main" target="_blank">Arduino</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_Data-Cleanning-Essentials-python/tree/main" target="_blank">Data Cleaning</a></td>
   </tr>
 
 
