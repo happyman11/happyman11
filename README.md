@@ -48,7 +48,7 @@ GitPages Badge"/>
      <img style="width:500px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happyman11&theme=dark" /> 
    </div>
    <div id="Mostusedlanguages">
-     <h2 style="border-style: inset;"> Language Used </h2>
+     <h2 style="border-style: inset;border-color: red"> Language Used </h2>
      <img   style="width:500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyman&theme=dark" />
    </div>
   
