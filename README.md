@@ -103,14 +103,9 @@ GitPages Badge"/>
    <br>
     <div id ="Repository">
      <h2> 📊 Github Stats </h2>
-    <img style="width:500px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
-     <img style="width:500px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happyman11&theme=dark" /> 
+    <img style="width:400px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happyman11&theme=dark" />
+     <img style="width:400px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happyman11&theme=dark" /> 
    </div>
    <br>
-   <div id="Mostusedlanguages">
-     <h2 > Language Used </h2>
-     <img   style="width:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyman&theme=dark" />
-   </div>
-  
    </div>
 
