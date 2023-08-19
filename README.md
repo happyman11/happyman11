@@ -67,8 +67,7 @@ GitPages Badge"/>
       <td><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" align="left" alt="spark" />
 </td>
       <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" align="left" alt="Docker" /></td>
-      <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" align="left" alt="Docker" />
-</td>
+     
       
   </tr>
   <tr>
@@ -80,24 +79,26 @@ GitPages Badge"/>
 </td>
       <td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" align="left" alt="Flask" />
  </td>
+        <td><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" align="left" alt="Julia" />
+</td>
   </tr>
   <tr>
-      <td><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" align="left" alt="Julia" />
-</td>
       <td><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" align="left" alt="Julia" />
  </td>
       <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" align="left" alt="Julia" /> </td>
       <td> 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" align="left" alt="Julia" /></td>
+       <td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" align="left" alt="Julia" />
+</td>
   </tr>
    <tr>
-      <td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" align="left" alt="Julia" />
-</td>
       <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" align="left" alt="Julia" />
 </td>
       <td><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" align="left" alt="Julia" />
  </td>
       <td><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" align="left" alt="Julia" />  </td>
+
+       
   </tr>
  
 </table>
