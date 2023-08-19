@@ -99,21 +99,42 @@ GitPages Badge"/>
       <td><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" align="left" alt="Julia" />  </td>
 <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left" alt="Julia" /></td>
 <td><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" align="left" alt="Julia" />
- </td>      
+ </td>
+       <td>
+<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" align="left" alt="Julia" /></td>
   </tr>
- 
+ <tr>
+     <td><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" align="left" alt="Julia" /></td>
+     <td><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" align="left" alt="Julia" /></td>
+     <td><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" align="left" alt="Julia" /></td>
+     <td><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" align="left" alt="Julia" /></td>
+     <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" align="left" alt="Julia" /></td>
+ </tr>
+  <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+ </tr>
+  <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+ </tr>
 </table>
  
 
 
 
 
-<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" align="left" alt="Julia" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" align="left" alt="Julia" />
+
+
+
+
+
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="left" alt="Julia" />
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" align="left" alt="Julia" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="left" alt="Julia" />
