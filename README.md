@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <h1>Ravi Shekhar Tiwari</h1>
 
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500px"/>
   
 
 
