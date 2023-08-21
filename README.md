@@ -332,6 +332,44 @@ GitPages Badge"/>
      <td><a href="https://github.com/happyman11/linkdin_Data-Cleanning-Essentials-python/tree/main" target="_blank">Data Cleaning</a></td>
   </tr>
 
+<tr>
+     <td><a href="https://github.com/happyman11/JavaScript-and-AJAX_-Integration-Techniques/tree/main" target="_blank">JS & Ajax</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_Artificial-Intelligence-Foundations_-Machine-/tree/main" target="_blank">AI Foundation</a></td>
+  </tr>
+<tr>
+     <td><a href="https://github.com/happyman11/linkdin_python_decorators" target="_blank">Python Decorators</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_Machine-Learning-with-Scikit-Learn/tree/main" target="_blank">ML with Scikit-Learn</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/linkdin_Data-Engineering-Foundations/tree/main" target="_blank">Data Engineering Foundation</a></td>
+     <td><a href="https://github.com/happyman11/linkdin_Advance_Pandas/tree/main" target="_blank">Pandas</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/linkdin_-Apache-PySpark-by-Example/tree/main" target="_blank">Spark</a></td>
+     <td><a href="https://github.com/happyman11/docker-mastery-with-django" target="_blank">Django Docker</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/utilities_code/tree/main" target="_blank"></a>Mediapipe Eye Tracker</td>
+     <td><a href="https://github.com/happyman11/attenDance-system/tree/main" target="_blank">Attandance System</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/attandance/tree/main" target="_blank">Attendance System</a></td>
+     <td><a href="https://github.com/happyman11/linkdin-courses/tree/main" target="_blank">5*Linkdin Courses</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/mediapipe_atttendance/tree/main" target="_blank">Mediapipe Attendance</a></td>
+     <td><a href="https://github.com/happyman11/huggingfaceapplications" target="_blank">Huggingface Applications</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/study-materials-courcera/tree/main" target="_blank">Private Computation Course</a></td>
+     <td><a href="https://github.com/happyman11/aAIttendancesystem-/tree/main" target="_blank">Product Attandance</a></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/happyman11/spark/tree/main" target="_blank">Spark Course</a></td>
+     <td><a href="https://github.com/happyman11/graph-neural-network-course" target="_blank">GNN Course</a></td>
+  </tr>
+ 
+
 
 
 </table>
